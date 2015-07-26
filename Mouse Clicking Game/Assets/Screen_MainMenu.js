@@ -1,9 +1,0 @@
-﻿
-
-function Start () {
-
-}
-
-function Update () {
-
-}
